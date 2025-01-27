@@ -1,0 +1,11 @@
+{
+  "name": "Daiwo Token",
+  "symbol": "DAIWO",
+  "decimals": 18,
+  "description": "Daiwo is a utility token for XYZ use cases.",
+  "website": "https://daiwo.me",
+  "explorer": "https://bscscan.com/token/0x2c95a2a76d58c4f8b790d4b3d272a10b85bbd637",
+  "status": "active",
+  "id": "0x2c95a2A76d58c4f8B790d4b3D272a10b85BbD637"
+}
+
